@@ -1,0 +1,3 @@
+all:
+	g++ function.cpp functions.h main.cpp -o hello
+
